@@ -1,0 +1,22 @@
+[
+  {
+    "symbol": "TCS.BSE",
+    "quantity": 10,
+    "purchasePrice": 3500
+  },
+  {
+    "symbol": "INFY.BSE",
+    "quantity": 8,
+    "purchasePrice": 1600
+  },
+  {
+    "symbol": "RELIANCE.BSE",
+    "quantity": 5,
+    "purchasePrice": 2500
+  },
+  {
+    "symbol": "HDFCBANK.BSE",
+    "quantity": 12,
+    "purchasePrice": 1550
+  }
+]

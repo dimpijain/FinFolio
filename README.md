@@ -14,7 +14,7 @@ FinFolio is a full-stack stock market portfolio tracker that enables users to ma
   - Secure sign-up/login with JWT authentication and bcrypt hashing.
   
 - 📊 **Real-Time Portfolio Tracking**
-  - Live stock data using APIs (e.g., Alpha Vantage, Yahoo Finance, or IEX Cloud).
+  - Live stock data using APIs.
   - Automatic updates for current stock prices, gains/losses, and portfolio value.
 
 - 🧠 **Smart Portfolio Management**
